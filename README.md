@@ -1,6 +1,6 @@
 # Generative Pretrained Transformer Implementation
 
-This repository is an independent attempt to implement a **Generative Pretrained Transformer (GPT)** using common Python libraries. The project draws inspiration from the explanatory video [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=example) by Andrew Karparthy and leverages iterative insights from ChatGPT.
+This repository is an independent attempt to implement a **Generative Pretrained Transformer (GPT)** using common Python libraries. The project draws inspiration from the explanatory video [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=1733s&ab_channel=AndrejKarpathy) by Andrew Karparthy and leverages iterative insights from ChatGPT.
 
 ## Overview
 
@@ -15,7 +15,7 @@ The goal of this project is to build a simplified version of a GPT-like model th
 ## Design Inspiration
 
 The design of this project is heavily influenced by:
-- **Andrew Karparthy's Video:** [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=example) offers an in-depth look at how large language models function.
+- **Andrew Karparthy's Video:** [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=1733s&ab_channel=AndrejKarpathy) offers an in-depth look at how large language models function.
 - **ChatGPT Assistance:** Iterative guidance and refinement from ChatGPT have been invaluable in shaping the approach and implementation details.
 
 ## Installation
@@ -25,5 +25,5 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gpt-implementation.git
-   cd gpt-implementation
+   git clone https://github.com/valiferst/generative-pretrained-transformer.git
+   cd generative-pretrained-transformer
